@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.10](https://www.github.com/googleapis/java-redis/compare/v1.1.9...v1.1.10) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#324](https://www.github.com/googleapis/java-redis/issues/324)) ([dc28d35](https://www.github.com/googleapis/java-redis/commit/dc28d352dda364cdea75a0ebf2796fe5f3edb06c))
+
 ### [1.1.9](https://www.github.com/googleapis/java-redis/compare/v1.1.8...v1.1.9) (2021-01-14)
 
 
